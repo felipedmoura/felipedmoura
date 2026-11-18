@@ -1,77 +1,83 @@
-
 # Hi 👋, I'm Felipe Moura
 
-- 💻 Currently studying Computer Science
-- 🔭 Learning and improving JavaScript, PHP, React.js, Laravel and Node.js
-- 🧐 Working to be a massive back-end developer
-- 🎮 Game lover
+### Software Engineer | Backend Engineering · SaaS Architecture · Distributed Systems
 
- ##
-<img align="right" src="https://user-images.githubusercontent.com/84094066/189259930-54445e31-a198-4a5c-a573-452959904b2d.gif" height="230"/>
+I build and operate software that solves real business problems — from backend architecture and distributed systems to infrastructure and production environments.
+
+Currently working as a **Senior Software Engineer at Ignis Vision**, leading the technical development of B2B SaaS products, designing multi-tenant architectures, building reliable backend systems, and managing production infrastructure.
+
+My work goes beyond writing code. I enjoy understanding how systems behave under real-world conditions, making architectural decisions, improving reliability, and turning complex business requirements into maintainable software.
+
+### ⚡ What I Work On
+
+- **Backend Engineering:** Building APIs, asynchronous workflows, event-driven systems, and scalable application architectures.
+- **SaaS Architecture:** Multi-tenant systems, tenant isolation, access control, auditing, and domain-driven design.
+- **Infrastructure & DevOps:** Linux servers, Docker, CI/CD pipelines, deployment automation, monitoring, and production operations.
+- **Distributed Systems:** Message brokers, background processing, real-time communication, and service integration.
+- **Applied AI:** RAG pipelines and agentic workflows with guardrails, policy constraints, and controlled tool execution.
 
 ### 🛠 Tech Stack
-<div align="left" style="display: inline_block">
-  <img title="PHP" align="center" alt="php-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">   
-  <img title="Laravel"align="center" alt="laravel-logo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">
-  <img title="ReactJS" align="center" alt="react-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img title="TypeScript" align="center" alt="typescript-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img title="NodeJS" align="center" alt="node-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img title="TailwindCSS" align="center" alt="tailwindcss-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-</div>
-<br/>
 
-### 🤯 Knowledge in
-<div align="left" style="display: inline_block">
-  <img title="Python" align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
-  <img title="Java" align="center" alt="Felipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img title="C" align="center" alt="Felipe-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img title="C++" align="center" alt="Felipe-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Felipe-postgres" height="40" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> 
-  <img align="center" alt="Felipe-mySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"">
-  <img align="center" alt="Felipe-Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Felipe-Swagger" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg">
-  <img align="center" alt="Felipe-Jest" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg">
-  <img align="center" alt="Felipe-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" >
-  <img title="Vue" align="center" alt="nvim-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" /> 
-  <img title="Nest" align="center" alt="figma-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
-  <img title="Next" align="center" alt="gql-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-  <img title="JavaScript" align="center" alt="javascript-logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-</div>
+**Languages & Backend**
 
-<br/>
+PHP · Laravel · TypeScript · JavaScript · Node.js · Go · Python · SQL · Rust
 
-##
-<div align="center">
- <div align="left">
-  <details>
-   <summary>⭐ Github stats</summary>
-   <br/>
-   <a href="https://github.com/isMeFelipe">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=isMeFelipe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   
-   </a>
-  <a href="https://github.com/isMeFelipe">
-   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isMeFelipe&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-  </details>
- </div>
- 
-<div align="center">
- <div align="left">
-  <details>
-   <summary>🎖️ Certifications</summary>
-   <ul>
-     // botar
-   </ul>
-  </details>
- </div>
+**Frontend & Applications**
 
-</div>
+React · React Native · Expo · Electron · Vite · Tailwind CSS
 
-<div> 
-  <a href="https://instagram.com/_backendo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/tgKj5ANVPH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="mailto:felipemoura1407@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-moura-a46a38209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+**Databases & Messaging**
+
+PostgreSQL · MySQL · MongoDB · Redis · RabbitMQ · Apache Kafka · WebSockets
+
+**Infrastructure & DevOps**
+
+Linux · Docker · Docker Compose · GitLab CI/CD · Nginx · Apache · Prometheus · Grafana · VPS · OVHcloud
+
+**Architecture & Engineering**
+
+Multi-tenancy · Distributed Systems · Event-Driven Architecture · Microservices · DDD · SOLID · REST APIs · RBAC
+
+**AI Engineering**
+
+RAG · AI Agents · Tool Integration · Guardrails · Policy-Constrained Workflows
+
+### 🚀 Things I've Built
+
+I enjoy building products from the ground up and taking them beyond development into real production environments.
+
+- **GereMais** — A multi-tenant business management platform, with ERP capabilities, operational workflows, integrations, and offline support.
+- **GereFood** — A restaurant management and digital commerce ecosystem, combining business operations, customer experience, and integrations.
+- **MentSync** — A platform focused on mentorship and professional development, including real-time communication infrastructure.
+- **NetworkingGame** — A platform designed to make professional networking more interactive and engaging.
+
+### 📈 Engineering Highlights
+
+- Optimized critical data-processing workflows, reducing execution time by **25–40%**.
+- Improved notification processing capacity and reduced delays by approximately **30%**.
+- Designed and operated multi-server production environments.
+- Implemented CI/CD, monitoring, deployment automation, and recovery practices.
+- Built multi-tenant SaaS solutions with granular access control and data isolation.
+
+### 🎓 Background
+
+- B.Sc. in Computer Science — Federal University of Piauí (UFPI).
+- MBA in Artificial Intelligence and Data Science in Healthcare — PUCRS (in progress).
+- Portuguese: Native | English: Advanced (C1).
+
+### 🔧 Development Workflow
+
+Git is part of my daily workflow, with most of my professional development taking place on **GitLab**.
+
+- Git & GitLab — Version control, branching strategies, merge requests, and code reviews.
+- GitLab CI/CD — Automated pipelines, testing, deployment, and release workflows.
+- GitHub — Open-source projects, personal experiments, and developer community.
+
+### 🤝 Let's Connect
+
+I'm always interested in discussing software architecture, backend engineering, distributed systems, SaaS products, and applied AI.
+
+- [LinkedIn](https://linkedin.com/in/felipedmoura)
+- [Portfolio](https://felipemoura.dev)
+- [GitLab](https://gitlab.com/felipemoura.developer)
+- [Email](mailto:felipemoura.developer@gmail.com)
